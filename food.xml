@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<nutrition>
+<food>
+	<name>Pork Sinigang </name>
+        <price>200</price>
+	<calories total="606.9" fat="410"/>
+	<total-fat>45.6g</total-fat>
+	<saturated-fat>16.8g</saturated-fat>
+	<cholesterol>86.2mg</cholesterol>
+	<sodium>2019.9mg</sodium>
+	<carb>35.3g</carb>
+	<fiber>5.1g</fiber>
+	<protein>1</protein>
+	<vitamins>
+		<a>833.2IU</a>
+		<c>24.5mg</c>
+	</vitamins>
+	<minerals>
+		<ca>87mg</ca>
+		<fe>2.5mg</fe>
+	</minerals>
+</food>
+<food>
+	<name>Crispy Fried Tofu</name>
+        <price>150</price>
+	<calories total="379" fat="45"/>
+	<total-fat>5g</total-fat>
+	<saturated-fat>1g</saturated-fat>
+	<cholesterol>0</cholesterol>
+	<sodium>3214mg</sodium>
+	<carb>50g</carb>
+	<fiber> 2g</fiber>
+	<protein>16g</protein>
+	<vitamins>
+		<a>0</a>
+		<c>0</c>
+	</vitamins>
+	<minerals>
+		<ca>183mg</ca>
+		<fe>3mg</fe>
+	</minerals>
+</food>
+<food>
+	<name>Chicken Adobo</name>
+        <price>250</price>
+	<calories total="383.2" fat="238"/>
+	<total-fat>26.4g</total-fat>
+	<saturated-fat>9.9g</saturated-fat>
+	<cholesterol>108.9mg</cholesterol>
+	<sodium>1190.4mg</sodium>
+	<carb>5.5g</carb>
+	<fiber>0.5g</fiber>
+	<protein>29.5g</protein>
+	<vitamins>
+		<a>203.2IU</a>
+		<c>4mg</c>
+	</vitamins>
+	<minerals>
+		<ca>33.6mg</ca>
+		<fe>1.9mg</fe>
+	</minerals>
+</food>
+<food>
+	<name>Chicken Karaage</name>
+        <price>400</price>
+	<calories total="494" fat="243"/>
+	<total-fat>27g</total-fat>
+	<saturated-fat>7g</saturated-fat>
+	<cholesterol>152mg</cholesterol>
+	<sodium>911mg</sodium>
+	<carb>32g</carb>
+	<fiber>3g</fiber>
+	<protein>29g</protein>
+	<vitamins>
+		<a>118IU</a>
+		<c>11mg</c>
+	</vitamins>
+	<minerals>
+		<ca>44mg</ca>
+		<fe>2mg</fe>
+	</minerals>
+</food>
+<food>
+	<name>Pork Bulgogi</name>
+        <price>370</price>
+	<calories total="488.59" fat="138"/>
+	<total-fat>15.33g</total-fat>
+	<saturated-fat>7.42g</saturated-fat>
+	<cholesterol>136.05mg</cholesterol>
+	<sodium>922.18mg</sodium>
+	<carb>34.41g</carb>
+	<fiber>4.58g</fiber>
+	<protein>55.21g</protein>
+	<vitamins>
+		<a>787.33IU</a>
+		<c>16.07mg</c>
+	</vitamins>
+	<minerals>
+		<ca>80mg</ca>
+		<fe>3.48mg</fe>
+	</minerals>
+</food>
+</nutrition>
